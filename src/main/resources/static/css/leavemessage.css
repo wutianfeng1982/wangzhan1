@@ -1,0 +1,56 @@
+	#contact-area {
+        padding: 0;
+        margin: 0 auto;
+        width:100%;
+        height:auto;
+    }
+ 
+    .contact-box {
+        -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        padding: 5px 5px 5px;
+        background-color: #fff;
+        border-radius: 6px;
+        height:auto;
+    }
+ 
+    .contact-box input {
+        /* height: 50px; */
+        border: 1px solid #f7f6f5;
+        font-size: 15px;
+        background-color: #f7f6f5;
+        font-weight: 500;
+    }
+ 
+    .contact-box textarea {
+        border: 1px solid #f7f6f5;
+        /* padding-top: 10px; */
+        background-color: #f7f6f5;
+        font-size: 15px;
+        font-weight: 500;
+    }
+ 
+    /* .contact-box button {
+        background-color: #325eff;
+        width:auto;
+        border: 0;
+        color: #fff;
+        padding: 7px 11px;
+        border-radius: 4px;
+        cursor: pointer;
+        outline: 0;
+        font-weight: 500;
+        font-size: 15px;
+        margin: 0 auto;
+    } */
+ 
+    .contact-box button:hover {
+        background-color: #0f39cf;
+    }
+    #pblish-comment{
+    	width: 100%;
+    	margin-bottom: 10px;
+    }
+    .well.well-no-margin{
+    	margin-bottom: 10px;
+    }
